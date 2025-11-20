@@ -1,0 +1,27 @@
+{
+  "LocaleSwitcher": {
+    "label": "Badili Lugha",
+    "locale": "{locale, select, sw {🇹🇿 Sw} en {🇺🇸 Eng} other {Haijulikani}}"
+  },
+  "navigation": {
+    "about": "Kuhusu",
+    "support": "Msaada",
+    "contact": "Wasiliana",
+    "signIn": "Ingia",
+    "register": "Jisajili",
+    "dashboard": "Dashibodi"
+  },
+  "home": {
+    "title": "Karibu ZetuMarket Wauzaji",
+    "description": "Simamia bidhaa na mauzo yako kwa ufanisi.",
+    "heroTitle": "Kuza Biashara Yako na ZetuMarket",
+    "heroSubtitle": "Jiunge na soko la mtandaoni linalokua kwa kasi Tanzania na fikia maelfu ya wateja",
+    "ctaPrimary": "Anza Kuuza Sasa",
+    "ctaSecondary": "Jifunze Zaidi",
+    "featuresTitle": "Kwa Nini Kuuza Kwenye ZetuMarket?",
+    "statsTitle": "Jiunge na Jamii Yetu Inayokua",
+    "howItWorksTitle": "Inafanyaje Kazi",
+    "testimonialsTitle": "Hadithi za Mafanikio",
+    "faqTitle": "Maswali Yanayoulizwa Mara Kwa Mara"
+  }
+}

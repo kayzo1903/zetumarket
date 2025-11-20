@@ -1,0 +1,27 @@
+{
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, sw {🇹🇿 Sw} en {🇺🇸 Eng} other {Unknown}}"
+  },
+  "navigation": {
+    "about": "About",
+    "support": "Support",
+    "contact": "Contact",
+    "signIn": "Sign In",
+    "register": "Register",
+    "dashboard": "Dashboard"
+  },
+  "home": {
+    "title": "Welcome to ZetuMarket Sellers",
+    "description": "Manage your products and sales efficiently.",
+    "heroTitle": "Grow Your Business with ZetuMarket",
+    "heroSubtitle": "Join Tanzania's fastest-growing online marketplace and reach thousands of customers",
+    "ctaPrimary": "Start Selling Now",
+    "ctaSecondary": "Learn More",
+    "featuresTitle": "Why Sell on ZetuMarket?",
+    "statsTitle": "Join Our Growing Community",
+    "howItWorksTitle": "How It Works",
+    "testimonialsTitle": "Success Stories",
+    "faqTitle": "Frequently Asked Questions"
+  }
+}
