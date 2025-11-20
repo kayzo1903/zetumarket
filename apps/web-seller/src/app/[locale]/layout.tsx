@@ -5,6 +5,7 @@ import "./globals.css";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import { ThemeProvider } from "@seller/components/theme/themeProvider";
+import Footer from "@seller/components/footer";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -50,6 +51,7 @@ export default async function LocaleLayout({
         >
           <NextIntlClientProvider locale={locale} messages={messages}>
             {children}
+            <Footer />
           </NextIntlClientProvider>
         </ThemeProvider>
       </body>

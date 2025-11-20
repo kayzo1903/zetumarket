@@ -33,7 +33,8 @@
     "subtitle": "Dashibodi yetu yenye nguvu inakupa udhibiti kamili wa bidhaa, oda, na fedha zako kutoka kwa kifaa chochote.",
     "f1": "Takwimu za Papo hapo",
     "f2": "Udhibiti wa Mali",
-    "f3": "Inafaa kwa Simu"
+    "f3": "Inafaa kwa Simu",
+    "ctaSecondary": "Ona Demo"
   },
   "features": {
     "title": "Kwa Nini Uuze Nasi?",
@@ -67,8 +68,18 @@
     "s3_d": "Pokea oda na tuma kwa wateja kwa urahisi."
   },
   "footer": {
-    "rights": "© 2025 SellerPortal. Haki zote zimehifadhiwa.",
+    "description": "Kuwawezesha biashara za ndani kufikia soko la kimataifa kupitia teknolojia.",
+    "platform": "Jukwaa",
+    "features": "Vipengele",
+    "pricing": "Bei",
+    "support": "Usaidizi",
+    "resources": "Rasilimali",
+    "blog": "Blogu",
+    "community": "Jumuiya",
+    "helpCenter": "Kituo cha Usaidizi",
+    "legal": "Kisheria",
     "privacy": "Sera ya Faragha",
-    "terms": "Masharti ya Huduma"
+    "terms": "Vigezo na Masharti",
+    "rights": "Haki zote zimehifadhiwa."
   }
 }
