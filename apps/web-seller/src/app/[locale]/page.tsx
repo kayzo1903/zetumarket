@@ -1,5 +1,6 @@
 // src/app/[locale]/page.tsx
 import Header from "@seller/components/homepage/header";
+import HeroSection from "@seller/components/homepage/hero";
 
 export default function Home() {
   return (
@@ -7,7 +8,7 @@ export default function Home() {
       <div className="min-h-screen bg-background text-foreground">
       <Header />
       <main className="mx-auto">
-        home
+        <HeroSection />
       </main>
     </div>
     </div>

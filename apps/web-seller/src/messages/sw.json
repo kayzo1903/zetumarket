@@ -11,17 +11,64 @@
     "register": "Jisajili",
     "dashboard": "Dashibodi"
   },
-  "home": {
-    "title": "Karibu ZetuMarket Wauzaji",
-    "description": "Simamia bidhaa na mauzo yako kwa ufanisi.",
-    "heroTitle": "Kuza Biashara Yako na ZetuMarket",
-    "heroSubtitle": "Jiunge na soko la mtandaoni linalokua kwa kasi Tanzania na fikia maelfu ya wateja",
-    "ctaPrimary": "Anza Kuuza Sasa",
-    "ctaSecondary": "Jifunze Zaidi",
-    "featuresTitle": "Kwa Nini Kuuza Kwenye ZetuMarket?",
-    "statsTitle": "Jiunge na Jamii Yetu Inayokua",
-    "howItWorksTitle": "Inafanyaje Kazi",
-    "testimonialsTitle": "Hadithi za Mafanikio",
-    "faqTitle": "Maswali Yanayoulizwa Mara Kwa Mara"
+  "nav": {
+    "features": "Vipengele",
+    "platform": "Mfumo",
+    "howItWorks": "Jinsi Inavyofanya Kazi",
+    "faq": "Maswali",
+    "login": "Ingia",
+    "register": "Anza Kuuza"
+  },
+  "hero": {
+    "badge": "Mpya: Kamisheni sifuri kwa miezi 3 ya kwanza!",
+    "title": "Kuza Biashara Yako na Soko Letu la Wauzaji",
+    "subtitle": "Jiunge na maelfu ya wauzaji wanaoamini jukwaa letu kuwafikia mamilioni ya wateja nchi nzima. Usanidi rahisi, malipo salama, na msaada wa saa 24/7.",
+    "ctaPrimary": "Jisajili Sasa",
+    "ctaSecondary": "Ona Demo",
+    "stat1": "Wauzaji Hai",
+    "stat2": "Mauzo ya Siku"
+  },
+  "preview": {
+    "title": "Simamia Kila Kitu Mahali Pamoja",
+    "subtitle": "Dashibodi yetu yenye nguvu inakupa udhibiti kamili wa bidhaa, oda, na fedha zako kutoka kwa kifaa chochote.",
+    "f1": "Takwimu za Papo hapo",
+    "f2": "Udhibiti wa Mali",
+    "f3": "Inafaa kwa Simu"
+  },
+  "features": {
+    "title": "Kwa Nini Uuze Nasi?",
+    "sub": "Kila kitu unachohitaji kukuza duka lako.",
+    "list": [
+      {
+        "title": "Ufikiaji Nchi Nzima",
+        "desc": "Fikia wateja kutoka kila pembe ya nchi papo hapo."
+      },
+      {
+        "title": "Malipo Salama",
+        "desc": "Malipo ya uhakika moja kwa moja benki au kwenye simu."
+      },
+      {
+        "title": "Dashibodi ya Takwimu",
+        "desc": "Fuatilia mauzo, bidhaa, na taarifa za wateja wakati halisi."
+      },
+      {
+        "title": "Zana za Masoko",
+        "desc": "Tangaza bidhaa zako na injini yetu ya promosheni iliyojengwa ndani."
+      }
+    ]
+  },
+  "steps": {
+    "title": "Anza Kuuza kwa Hatua 3",
+    "s1_t": "Fungua Akaunti",
+    "s1_d": "Jisajili na maelezo ya biashara yako na uthibitisho wa kitambulisho.",
+    "s2_t": "Orodhesha Bidhaa",
+    "s2_d": "Pakia picha, weka bei, na dhibiti bidhaa zako.",
+    "s3_t": "Anza Kuuza",
+    "s3_d": "Pokea oda na tuma kwa wateja kwa urahisi."
+  },
+  "footer": {
+    "rights": "© 2025 SellerPortal. Haki zote zimehifadhiwa.",
+    "privacy": "Sera ya Faragha",
+    "terms": "Masharti ya Huduma"
   }
 }

@@ -11,17 +11,64 @@
     "register": "Register",
     "dashboard": "Dashboard"
   },
-  "home": {
-    "title": "Welcome to ZetuMarket Sellers",
-    "description": "Manage your products and sales efficiently.",
-    "heroTitle": "Grow Your Business with ZetuMarket",
-    "heroSubtitle": "Join Tanzania's fastest-growing online marketplace and reach thousands of customers",
-    "ctaPrimary": "Start Selling Now",
-    "ctaSecondary": "Learn More",
-    "featuresTitle": "Why Sell on ZetuMarket?",
-    "statsTitle": "Join Our Growing Community",
-    "howItWorksTitle": "How It Works",
-    "testimonialsTitle": "Success Stories",
-    "faqTitle": "Frequently Asked Questions"
+  "nav": {
+    "features": "Features",
+    "platform": "Platform",
+    "howItWorks": "How it Works",
+    "faq": "FAQ",
+    "login": "Login",
+    "register": "Start Selling"
+  },
+  "hero": {
+    "badge": "New: Zero commission for the first 3 months!",
+    "title": "Grow Your Business with Our Seller Marketplace",
+    "subtitle": "Join thousands of sellers who trust our platform to reach millions of customers nationwide. Easy setup, secure payments, and 24/7 support.",
+    "ctaPrimary": "Register Now",
+    "ctaSecondary": "View Demo",
+    "stat1": "Active Sellers",
+    "stat2": "Daily Sales"
+  },
+  "preview": {
+    "title": "Manage Everything in One Place",
+    "subtitle": "Our powerful seller dashboard gives you full control over your inventory, orders, and finances from any device.",
+    "f1": "Real-time Analytics",
+    "f2": "Inventory Management",
+    "f3": "Mobile Friendly"
+  },
+  "features": {
+    "title": "Why Sell With Us?",
+    "sub": "Everything you need to scale your store.",
+    "list": [
+      {
+        "title": "Nationwide Reach",
+        "desc": "Access customers from every corner of the country instantly."
+      },
+      {
+        "title": "Secure Payments",
+        "desc": "Guaranteed payouts directly to your bank or mobile money."
+      },
+      {
+        "title": "Analytics Dashboard",
+        "desc": "Track sales, inventory, and customer insights in real-time."
+      },
+      {
+        "title": "Marketing Tools",
+        "desc": "Boost your products with our built-in promotion engine."
+      }
+    ]
+  },
+  "steps": {
+    "title": "Start Selling in 3 Steps",
+    "s1_t": "Create Account",
+    "s1_d": "Sign up with your business details and ID verification.",
+    "s2_t": "List Products",
+    "s2_d": "Upload photos, set prices, and manage inventory.",
+    "s3_t": "Start Selling",
+    "s3_d": "Receive orders and ship to customers effortlessly."
+  },
+  "footer": {
+    "rights": "© 2025 SellerPortal. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
   }
 }
