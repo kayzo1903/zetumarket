@@ -7,8 +7,8 @@ export default function Footer() {
   const t = useTranslations("footer");
 
   return (
-    <footer className="bg-slate-900 dark:bg-slate-900/50 text-slate-200 py-12 ">
-      <div className="max-w-7xl mx-auto px-4 md:px-6">
+    <footer className="bg-slate-900 dark:bg-slate-900/50 text-slate-200 py-12">
+      <div className="container mx-auto px-4 md:px-6">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className="space-y-4">
             <div className="flex items-center gap-2 font-bold text-xl text-white">

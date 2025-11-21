@@ -82,7 +82,6 @@
     "terms": "Vigezo na Masharti",
     "rights": "Haki zote zimehifadhiwa."
   },
-
   "sellerRegistration": {
     "title": "Usajili wa Biashara",
     "businessName": "Jina la Biashara",
@@ -122,6 +121,52 @@
       "descriptionMin": "Maelezo yanapaswa kuwa na herufi angalau 10",
       "urlInvalid": "Lazima iwe URL sahihi",
       "termsRequired": "Lazima ukubali masharti"
+    }
+  },
+  "Auth": {
+    "signin": "Ingia",
+    "signin_description": "Ingia kwenye akaunti yako ya muuza kudhibiti bidhaa na oda zako",
+    "signup": "Jisajili",
+    "signup_description": "Tengeneza akaunti ya muuza kuanza kuuza bidhaa zako",
+    "verify": "Thibitisha Simu",
+    "verify_account": "Thibitisha Akaunti",
+    "reset": "Rekebisha Nenosiri",
+    "phone_label": "Nambari ya Simu (Tanzania)",
+    "login_label": "Jina la Mtumiaji au Nambari ya Simu",
+    "pass_label": "Nenosiri",
+    "name_label": "Jina Kamili",
+    "otp_label": "Weka Msimbo wa Tarakimu 6",
+    "submit": "Wasilisha",
+    "have_account": "Tayari una akaunti?",
+    "no_account": "Huna akaunti?",
+    "forgot_password": "Umesahau Nenosiri?",
+    "reset_password": "Rekebisha Nenosiri",
+    "new_password_label": "Nenosiri Jipya",
+    "confirm_password_label": "Thibitisha Nenosiri",
+    "reset_password_button": "Rekebisha Nenosiri",
+    "send_otp": "Tuma Msimbo",
+    "resend_otp": "Tuma Msimbo Tena",
+    "remember_password": "Umekumbuka nenosiri?",
+    "back_to_signin": "Rudi Kwenye Ingia",
+    "sent_otp": "Tumetuma msimbo kwenye simu yako",
+    "verifying": "Inathibitisha...",
+    "forgot_password_description": "Weka jina lako la mtumiaji au nambari ya simu kupokea msimbo wa kurekebisha nenosiri",
+    "reset_password_description": "Weka msimbo uliotumwa na uweke nenosiri jipya",
+    "password_reset_success": "Nenosiri Limebadilishwa",
+    "password_reset_success_description": "Nenosiri limebadilishwa kikamilifu",
+    "password_reset_success_message": "Nenosiri lako limebadilishwa kikamilifu. Unaweza kuingia sasa kwa kutumia nenosiri jipya.",
+    "verify_description": "Tumetuma msimbo wa tarakimu 6 kwenye simu yako. Tafadhali weka hapa chini.",
+    "resend_in": "Tuma tena ndani ya",
+    "otp_help": "Kama hukupokea msimbo, hakikisha nambari ya simu yako ni sahihi na una upatikanaji wa mtandao.",
+    "having_trouble": "Una matatizo?",
+    "contact_support": "Wasiliana na usaidizi",
+    "errors": {
+      "invalid_phone": "Nambari ya simu si sahihi (mfano: 0712...)",
+      "min_8_chars": "Nenosiri lazima liwe na herufi angalau 8",
+      "login_required": "Jina la mtumiaji au nambari ya simu inahitajika",
+      "password_required": "Nenosiri linahitajika",
+      "otp_required": "Msimbo wa tarakimu 6 unahitajika",
+      "passwords_mismatch": "Nenosiri halifanani"
     }
   }
 }

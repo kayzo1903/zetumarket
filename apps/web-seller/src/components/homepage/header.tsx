@@ -3,13 +3,13 @@
 
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
-import Link from 'next/link';
 import { Menu, User, HelpCircle, Phone, Info } from 'lucide-react';
 import LocaleSwitcher from '../(lang)/LocaleSwitcher';
 import { ModeToggle } from '../theme/ModeToggle';
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from '../ui/dropdown-menu';
 import { Button } from '../ui/button';
 import { Sheet, SheetContent, SheetTrigger } from '../ui/sheet';
+import { Link } from '@seller/i18n/navigation';
 
 export default function Header() {
   const t = useTranslations('navigation');
