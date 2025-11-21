@@ -10,7 +10,8 @@ import { Button } from "@seller/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@seller/components/ui/card"
 import { Link, useRouter } from "@seller/i18n/navigation"
 import { useState, useEffect } from "react"
-import { verifySchema } from "@seller/lib/auth/schemas"
+import { verifySchema } from "@seller/lib/schemas/auth"
+
 
 export default function VerifyAccount() {
   const t = useTranslations("Auth")

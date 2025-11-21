@@ -1,7 +1,10 @@
-import React from 'react'
+import StoreSettings from "@seller/components/dashboard/setting";
+import React from "react";
 
-export default function StoreSettingPage() {
+export default function FinancePage() {
   return (
-    <div>StoreSettingPage</div>
-  )
+    <div>
+  <StoreSettings />
+    </div>
+  );
 }

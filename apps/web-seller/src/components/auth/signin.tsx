@@ -9,7 +9,8 @@ import { Input } from "@seller/components/ui/input"
 import { Button } from "@seller/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@seller/components/ui/card"
 import { Link } from "@seller/i18n/navigation"
-import { signInSchema } from "@seller/lib/auth/schemas"
+import { signInSchema } from "@seller/lib/schemas/auth"
+
 
 
 export default function SignIn() {

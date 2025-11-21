@@ -112,6 +112,13 @@
     "description": "Maelezo ya Biashara",
     "terms": "Nakubana na masharti na kanuni za uthibitishaji wa mchuuzi",
     "submit": "Wasilisha kwa Uthibitishaji",
+    "store_logo": "Nembo ya Duka",
+    "store_front_image": "Picha ya Mbele ya Duka",
+    "upload_logo": "Pakia Nembo",
+    "upload_store_image": "Pakia Picha ya Duka",
+    "logo_recommended": "Inapendekezwa: 200x200px PNG",
+    "store_image_recommended": "Inapendekezwa: 800x400px JPG",
+    "update_store_profile": "Sasisha Wasifu wa Duka",
     "validation": {
       "businessNameRequired": "Jina la biashara linahitajika",
       "chooseCategory": "Chagua angalau kategoria moja",
@@ -120,6 +127,8 @@
       "streetRequired": "Mtaa unahitajika",
       "descriptionMin": "Maelezo yanapaswa kuwa na herufi angalau 10",
       "urlInvalid": "Lazima iwe URL sahihi",
+      "invalid_phone": "Nambari ya simu si sahihi",
+      "tinRequired": "Nambari ya TIN lazima iwe na tarakimu 9",
       "termsRequired": "Lazima ukubali masharti"
     }
   },
@@ -168,5 +177,58 @@
       "otp_required": "Msimbo wa tarakimu 6 unahitajika",
       "passwords_mismatch": "Nenosiri halifanani"
     }
+  },
+  "Products": {
+    "add_product": "Ongeza Bidhaa Mpya",
+    "add_product_description": "Jaza maelezo hapa chini kuchapisha bidhaa yako.",
+    "product_name_label": "Jina la Bidhaa",
+    "product_name_placeholder": "mf. MacBook Pro 2021",
+    "product_type_label": "Aina ya Bidhaa",
+    "product_type_placeholder": "Chagua aina ya bidhaa",
+    "product_brand_label": "Chapa",
+    "product_brand_placeholder": "mf. Apple, Samsung, HP",
+    "price_label": "Bei (TZS)",
+    "price_placeholder": "Weka bei",
+    "stock_label": "Idadi ya Hisa",
+    "stock_placeholder": "mf. 10",
+    "images_label": "Picha za Bidhaa",
+    "upload_images": "Pakia picha",
+    "upload_images_description": "Unaweza kupakia picha nyingi. Ukubwa unaopendekezwa 800x800px.",
+    "remove_image": "Ondoa picha",
+    "condition_label": "Hali",
+    "condition_placeholder": "Chagua hali",
+    "description_label": "Maelezo",
+    "description_placeholder": "Elezea bidhaa...",
+    "description_help": "Kuwa maelezo (chapa, modeli, vipimo, dosari ikiwepo).",
+    "publish_button": "Chapisha Bidhaa",
+    "loading": "Inachapisha...",
+    "view_terms": "Angalia Vigezo na Masharti",
+    "max_images_reached": "Kiwango cha juu cha picha umefikiwa",
+    "images_uploaded": "{current}/{max} picha zimepakuliwa",
+    "errors": {
+      "product_name_min_5": "Jina la bidhaa lazima liwe na herufi angalau 5.",
+      "product_type_required": "Aina ya bidhaa inahitajika.",
+      "product_brand_required": "Chapa inahitajika.",
+      "price_min_1000": "Kiwango cha chini cha bei ni 1000.",
+      "stock_min_1": "Hisa lazima iwe angalau 1.",
+      "description_min_20": "Maelezo lazima yawe na herufi angalau 20.",
+      "product_images_required": "Tafadhali pakia angalau picha moja.",
+      "condition_required": "Hali ya bidhaa inahitajika."
+    }
+  },
+  "Finance": {
+    "total_revenue": "Mapato Yote",
+    "pending_payout": "Malipo Yanayosubiri",
+    "tabs": {
+      "payouts": "Mbinu za Kulipia",
+      "history": "Historia ya Manunuzi"
+    },
+    "payout_methods": {
+      "title": "Unganishaji wa Pesa Mkondoni",
+      "mpesa": "Vodacom M-Pesa",
+      "add_method": "Ongeza Tigo Pesa / Airtel Money",
+      "edit": "Hariri"
+    },
+    "currency": "TZS"
   }
 }

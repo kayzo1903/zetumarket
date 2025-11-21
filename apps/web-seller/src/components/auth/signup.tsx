@@ -4,12 +4,12 @@ import { useForm } from "react-hook-form"
 import { zodResolver } from "@hookform/resolvers/zod"
 import { useTranslations } from "next-intl"
 import * as z from "zod"
-import { signUpSchema } from "../../lib/auth/schemas"
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "@seller/components/ui/form"
 import { Input } from "@seller/components/ui/input"
 import { Button } from "@seller/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@seller/components/ui/card"
 import { Link } from "@seller/i18n/navigation"
+import { signUpSchema } from "@seller/lib/schemas/auth"
 
 
 export default function SignUp() {

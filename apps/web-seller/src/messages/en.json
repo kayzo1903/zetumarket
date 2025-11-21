@@ -112,6 +112,13 @@
     "description": "Business Description",
     "terms": "I agree to the seller terms & verification rules",
     "submit": "Submit for Verification",
+    "store_logo": "Store Logo",
+    "store_front_image": "Store Front Image",
+    "upload_logo": "Upload Logo",
+    "upload_store_image": "Upload Store Image",
+    "logo_recommended": "Recommended: 200x200px PNG",
+    "store_image_recommended": "Recommended: 800x400px JPG",
+    "update_store_profile": "Update Store Profile",
     "validation": {
       "businessNameRequired": "Business name is required",
       "chooseCategory": "Choose at least one category",
@@ -120,7 +127,9 @@
       "streetRequired": "Street is required",
       "descriptionMin": "Description must be at least 10 characters",
       "urlInvalid": "Must be a valid URL",
-      "termsRequired": "You must accept the terms"
+      "termsRequired": "You must accept the terms",
+      "invalid_phone": "Invalid phone number format",
+      "tinRequired": "TIN number must be 9 digits"
     }
   },
   "Auth": {
@@ -167,5 +176,59 @@
       "password_required": "Password is required",
       "otp_required": "6-digit code is required",
       "passwords_mismatch": "Passwords do not match"
-    }}
+    }
+  },
+  "Products": {
+    "add_product": "Add New Product",
+    "add_product_description": "Fill in the details below to publish your product.",
+    "product_name_label": "Product Name",
+    "product_name_placeholder": "e.g. MacBook Pro 2021",
+    "product_type_label": "Product Type",
+    "product_type_placeholder": "Select product type",
+    "product_brand_label": "Brand",
+    "product_brand_placeholder": "e.g. Apple, Samsung, HP",
+    "price_label": "Price (TZS)",
+    "price_placeholder": "Enter price",
+    "stock_label": "Stock Quantity",
+    "stock_placeholder": "e.g. 10",
+    "images_label": "Product Images",
+    "upload_images": "Upload images",
+    "upload_images_description": "You can upload multiple images. Recommended size 800x800px.",
+    "remove_image": "Remove image",
+    "condition_label": "Condition",
+    "condition_placeholder": "Select condition",
+    "description_label": "Description",
+    "description_placeholder": "Describe the product...",
+    "description_help": "Be detailed (brand, model, specs, faults if any).",
+    "publish_button": "Publish Product",
+    "loading": "Publishing...",
+    "view_terms": "View Terms & Conditions",
+    "max_images_reached": "Maximum images reached",
+    "images_uploaded": "{current}/{max} images uploaded",
+    "errors": {
+      "product_name_min_5": "Product name must be at least 5 characters.",
+      "product_type_required": "Product type is required.",
+      "product_brand_required": "Brand is required.",
+      "price_min_1000": "Minimum price is 1000.",
+      "stock_min_1": "Stock must be at least 1.",
+      "description_min_20": "Description must be at least 20 characters.",
+      "product_images_required": "Please upload at least one image.",
+      "condition_required": "Product condition is required."
+    }
+  },
+  "Finance": {
+    "total_revenue": "Total Revenue",
+    "pending_payout": "Pending Payout",
+    "tabs": {
+      "payouts": "Payout Methods",
+      "history": "Transaction History"
+    },
+    "payout_methods": {
+      "title": "Mobile Money Integration",
+      "mpesa": "Vodacom M-Pesa",
+      "add_method": "Add Tigo Pesa / Airtel Money",
+      "edit": "Edit"
+    },
+    "currency": "TZS"
+  }
 }

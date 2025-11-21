@@ -10,7 +10,7 @@ import { Button } from "@seller/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@seller/components/ui/card"
 import { Link } from "@seller/i18n/navigation"
 import { useState } from "react"
-import { forgotPasswordSchema } from "@seller/lib/auth/schemas"
+import { forgotPasswordSchema } from "@seller/lib/schemas/auth"
 
 // Reset Password schema (for the second step)
 const resetPasswordSchema = z.object({

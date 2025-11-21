@@ -1,7 +1,10 @@
-import React from 'react'
+import Finance from "@seller/components/dashboard/finance";
+import React from "react";
 
 export default function FinancePage() {
   return (
-    <div>FinancePage</div>
-  )
+    <div>
+      <Finance />
+    </div>
+  );
 }

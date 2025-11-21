@@ -4,21 +4,9 @@ import { useState } from "react";
 import { X } from "lucide-react";
 import { Badge } from "../ui/badge";
 import { Command, CommandGroup, CommandItem, CommandList } from "../ui/command";
+import { businessTypes } from "@seller/lib/productsList";
 
-const businessTypes = [
-  "Laptops & Notebooks",
-  "Desktop Computers",
-  "Computer Components",
-  "Gaming Consoles",
-  "Gaming Accessories",
-  "Televisions",
-  "Smart Home Devices",
-  "Audio Systems",
-  "Cameras & Photography",
-  "Printers & Office Electronics",
-  "Networking Devices",
-  "Mobile Phones & Tablets",
-];
+
 
 export default function BusinessTypeSelect({ value, onChange }: { 
   value: string[]; 
