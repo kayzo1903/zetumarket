@@ -80,7 +80,6 @@ export default async function LocaleLayout({
           disableTransitionOnChange
         >
           <NextIntlClientProvider locale={locale} messages={messages}>
-            <Header />
             {children}
             <Footer />
           </NextIntlClientProvider>

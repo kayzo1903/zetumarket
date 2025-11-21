@@ -1,6 +1,7 @@
 // src/app/[locale]/page.tsx
 
 import Features from "@seller/components/homepage/features";
+import Header from "@seller/components/homepage/header";
 import HeroSection from "@seller/components/homepage/hero";
 import HowItWorks from "@seller/components/homepage/howitwork";
 import PlatformPreview from "@seller/components/homepage/platformpreview";
@@ -26,9 +27,8 @@ export default function Home() {
         }}
       />
 
-      
-
       <main className="container mx-auto px-4 md:px-6">
+        <Header />
         <HeroSection />
         <PlatformPreview />
         <Features />
