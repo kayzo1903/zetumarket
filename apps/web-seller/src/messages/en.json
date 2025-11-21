@@ -33,7 +33,7 @@
     "subtitle": "Our powerful seller dashboard gives you full control over your inventory, orders, and finances from any device.",
     "f1": "Real-time Analytics",
     "f2": "Inventory Management",
-    "f3": "Mobile Friendly" ,
+    "f3": "Mobile Friendly",
     "ctaSecondary": "View Demo"
   },
   "features": {
@@ -81,5 +81,46 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "rights": "All rights reserved."
+  },
+  "sellerRegistration": {
+    "title": "Seller Business Registration",
+    "businessName": "Business Name",
+    "businessNameRequired": "Business name is required",
+    "businessCategory": "Business Category",
+    "chooseCategory": "Choose at least one category",
+    "address": "Address",
+    "region": "Region",
+    "district": "District",
+    "street": "Street / Area",
+    "landmark": "Nearby Landmark (optional)",
+    "socialMedia": {
+      "title": "Social Media (optional but helps verification)",
+      "facebook": "Facebook Page URL",
+      "instagram": "Instagram URL",
+      "tiktok": "TikTok URL",
+      "whatsapp": "WhatsApp Business Link"
+    },
+    "submitting": "Submitting...",
+    "success": {
+      "title": "Application Submitted Successfully!",
+      "message": "Thank you for your seller registration application. We have received your submission and our team will review it within 2-3 business days.",
+      "referenceId": "Reference ID: {id}",
+      "goHome": "Go to Homepage",
+      "submitAnother": "Submit Another Application"
+    },
+    "documents": "Upload Documents (TIN, License, Storefront, etc.)",
+    "description": "Business Description",
+    "terms": "I agree to the seller terms & verification rules",
+    "submit": "Submit for Verification",
+    "validation": {
+      "businessNameRequired": "Business name is required",
+      "chooseCategory": "Choose at least one category",
+      "regionRequired": "Region is required",
+      "districtRequired": "District is required",
+      "streetRequired": "Street is required",
+      "descriptionMin": "Description must be at least 10 characters",
+      "urlInvalid": "Must be a valid URL",
+      "termsRequired": "You must accept the terms"
+    }
   }
 }

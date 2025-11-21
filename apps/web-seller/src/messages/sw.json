@@ -81,5 +81,47 @@
     "privacy": "Sera ya Faragha",
     "terms": "Vigezo na Masharti",
     "rights": "Haki zote zimehifadhiwa."
+  },
+
+  "sellerRegistration": {
+    "title": "Usajili wa Biashara",
+    "businessName": "Jina la Biashara",
+    "businessNameRequired": "Jina la biashara linahitajika",
+    "businessCategory": "Aina ya Biashara",
+    "chooseCategory": "Chagua angalau kategoria moja",
+    "address": "Anwani",
+    "region": "Mkoa",
+    "district": "Wilaya",
+    "street": "Mtaa / Eneo",
+    "landmark": "Alama ya karibu (hiari)",
+    "socialMedia": {
+      "title": "Mitandao ya Kijamii (hiari lakini inasaidia uthibitishaji)",
+      "facebook": "URL ya Ukurasa wa Facebook",
+      "instagram": "URL ya Instagram",
+      "tiktok": "URL ya TikTok",
+      "whatsapp": "Kiungo cha WhatsApp Business"
+    },
+    "submitting": "Inawasilisha...",
+    "success": {
+      "title": "Maombi Yamewasilishwa Kikamilifu!",
+      "message": "Asante kwa maombi yako ya usajili wa mchuuzi. Tumeipokea ombi lako na timu yetu italichunguza ndani ya siku 2-3 za kazi.",
+      "referenceId": "Kitambulisho cha Kumbukumbu: {id}",
+      "goHome": "Nenda Ukurasa Wa Kwanza",
+      "submitAnother": "Wasilisha Ombi Jingine"
+    },
+    "documents": "Pakia Nyaraka (TIN, Leseni, Picha Ya Duka, n.k.)",
+    "description": "Maelezo ya Biashara",
+    "terms": "Nakubana na masharti na kanuni za uthibitishaji wa mchuuzi",
+    "submit": "Wasilisha kwa Uthibitishaji",
+    "validation": {
+      "businessNameRequired": "Jina la biashara linahitajika",
+      "chooseCategory": "Chagua angalau kategoria moja",
+      "regionRequired": "Mkoa unahitajika",
+      "districtRequired": "Wilaya inahitajika",
+      "streetRequired": "Mtaa unahitajika",
+      "descriptionMin": "Maelezo yanapaswa kuwa na herufi angalau 10",
+      "urlInvalid": "Lazima iwe URL sahihi",
+      "termsRequired": "Lazima ukubali masharti"
+    }
   }
 }

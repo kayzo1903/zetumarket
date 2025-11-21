@@ -5,6 +5,8 @@ import { Globe, ShieldCheck, TrendingUp, Users } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 import { Card, CardContent } from '../ui/card';
 
+
+
 export default function Features() {
   const t = useTranslations("features");
   const icons = [Globe, ShieldCheck, TrendingUp, Users];

@@ -7,6 +7,8 @@ import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { Link } from "@seller/i18n/navigation";
 
+
+
 export default function HeroSection() {
   const t = useTranslations("hero");
 
@@ -28,7 +30,7 @@ export default function HeroSection() {
             <div className="mt-8 flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
               <Button size="lg" className="h-12 px-8 text-base">
                 <Link
-                  href={"/register"}
+                  href={"/apply"}
                   className="flex items-center flex-nowrap"
                 >
                   {t("ctaPrimary")} <ArrowRight className="ml-2 w-4 h-4" />

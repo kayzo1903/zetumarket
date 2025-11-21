@@ -12,7 +12,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div className="space-y-4">
             <div className="flex items-center gap-2 font-bold text-xl text-white">
-              <span>zetuMarket</span>
+              <span>muuza</span>
             </div>
             <p className="text-sm text-slate-400">
               {t("description")}
