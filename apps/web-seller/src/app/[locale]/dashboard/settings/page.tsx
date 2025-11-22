@@ -3,8 +3,8 @@ import React from "react";
 
 export default function FinancePage() {
   return (
-    <div>
-  <StoreSettings />
-    </div>
+    <main className="container mx-auto">
+      <StoreSettings />
+    </main>
   );
 }

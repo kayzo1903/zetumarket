@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function OrdersPage() {
-  return (
-    <div>OrdersPage</div>
-  )
+  return <main className="container mx-auto">OrdersPage</main>;
 }

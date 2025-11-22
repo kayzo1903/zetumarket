@@ -1,7 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export default function MessagePage() {
-  return (
-    <div>MessagePage</div>
-  )
+  return <main className="container mx-auto">MessagePage</main>;
 }

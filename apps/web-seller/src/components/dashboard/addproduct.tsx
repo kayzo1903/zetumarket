@@ -129,7 +129,7 @@ export default function AddProduct() {
 
   return (
     <div className="flex min-h-screen items-center justify-center p-4 transition-colors duration-300">
-      <Card className="w-full max-w-3xl shadow-lg">
+      <Card className="w-full shadow-lg">
         <CardHeader className="space-y-1">
           <CardTitle className="text-2xl font-bold text-center">{t("add_product")}</CardTitle>
           <CardDescription className="text-center">{t("add_product_description")}</CardDescription>
